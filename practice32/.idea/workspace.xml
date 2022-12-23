@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e707618-6316-46ca-b8fc-16d77f07efae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../practice15/src/task4/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice15/src/task4/MyJButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice16/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice16/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice16/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice16/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice16/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice16/src/MyJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/prac30/src/GUI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/prac30/src/GUI/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/prac30/src/GUI/OrderPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/practice23/src/task1/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/practice23/src/task1/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/practice23/src/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/practice23/src/task2/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/practice23/src/task2/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/practice23/src/task2/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice23/practice23/src/task2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice32/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice32/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice32/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice32/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/save.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice14/src/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice14/src/task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice14/src/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice14/src/task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice16/src/task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice17/src/MVCPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice17/src/MVCPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice23/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice23/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/out/production/practice23/AbstractQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/out/production/practice23/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/out/production/practice23/ArrayQueueADT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/out/production/practice23/ArrayQueueModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/out/production/practice23/LinkedQueue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/out/production/practice23/LinkedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/out/production/practice23/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/src/AbstractQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/src/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/src/ArrayQueueADT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/src/ArrayQueueModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/src/LinkedQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice23/src/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice26/src/hashtab.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice26/src/hashtab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice26/src/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice26/src/task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DrinkTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DrinkTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice31a/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice31a/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice31a/src/test/java/homework_31/OrderSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice31a/src/test/java/homework_31/OrderSortTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2JAQtdp1U8MgrajsFukOVhKb3W6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Desktop/java_3sem/practice30/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e707618-6316-46ca-b8fc-16d77f07efae" name="Changes" comment="" />
+      <created>1671518623421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671518623421</updated>
+      <workItem from="1671518625107" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
